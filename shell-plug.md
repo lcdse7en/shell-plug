@@ -69,6 +69,10 @@ alias f = 'fanyi'
 alias server="python3 -m http.server -d /home/se7en/aSe7en"
 ```
 
+port: `8000`
+IP: `localhost:8000`
+IP: `192.168.1.6:8000`
+
 ```bash
 server
 ```
