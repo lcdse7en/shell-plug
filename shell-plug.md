@@ -49,9 +49,8 @@ ZSH_THEME="strug"
 sudo apt install nodejs
 sudo npm install fanyi -g
 ```
+`nvim ~/.config/fanyi/.fanyirc`
 ```json
-nvim ~/.config/fanyi/.fanyirc
-
 {
   "iciba": true,
   "youdao": true,
