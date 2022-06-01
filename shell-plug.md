@@ -79,4 +79,15 @@ IP: `192.168.1.6:8000`
 server
 ```
 
+#### 7.fzf
+```bash
+git clone --depth=1 https://github.com/junegunn/fzf.git ~/.fzf
+
+cd ~/.fzf
+./install
+
+sudo apt isntall fzf
+```
+
+
 
